@@ -4,9 +4,9 @@ public class a2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your two numbers : ");
-        System.out.print("1 : ");
+        System.out.print("a : ");
         int a = scanner.nextInt();
-        System.out.print("2 : ");
+        System.out.print("b : ");
         int b = scanner.nextInt();
 
         // Arithmetic operations
@@ -16,11 +16,11 @@ public class a2 {
         int quotient = a / b;
         int remainder = a % b;
 
-        System.out.println("SUM : " + sum);
-        System.out.println("DIFFERENCE : " + difference);
-        System.out.println("PRODUCT : " + product);
-        System.out.println("QUOTIENT : " + quotient);
-        System.out.println("REMAINDER : " + remainder);
+        System.out.println("SUM (a+b): " + sum);
+        System.out.println("DIFFERENCE (a-b): " + difference);
+        System.out.println("PRODUCT (a*b): " + product);
+        System.out.println("QUOTIENT (a/b): " + quotient);
+        System.out.println("REMAINDER (a%b): " + remainder);
         scanner.close();
     }
 }
