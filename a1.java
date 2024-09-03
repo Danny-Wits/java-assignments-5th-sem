@@ -5,7 +5,7 @@ public class a1 {
         Scanner scanner = new Scanner(System.in);
         final double PI = Math.PI;
         System.out.print("Enter the radius of the circle : ");
-        double radius = scanner.nextFloat();
+        double radius = scanner.nextDouble();
         double area = radius * radius * PI;
         System.out.printf("The area of the circle is : %.2f", area);
         scanner.close();
