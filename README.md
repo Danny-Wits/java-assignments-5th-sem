@@ -1,6 +1,6 @@
-# Java Assignments 5th Semster \
-## Questions : \
-Write a Program in java : \
+# Java Assignments 5th Semster
+## Questions : 
+>Write a Program in java :
 1. to find the area of a circle.
 2. to demostrate arithmetic operators.
 3. to demostrate logical operators.
