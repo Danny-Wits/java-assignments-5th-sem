@@ -5,7 +5,7 @@ public class a7 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the month number : ");
         int a = scanner.nextInt();
-        String day = switch (a) {
+        String month = switch (a) {
             case 1 -> "January";
             case 2 -> "February";
             case 3 -> "March";
@@ -20,7 +20,7 @@ public class a7 {
             case 12 -> "December";
             default -> "not a valid month .\nPlease enter 1-12 only.";
         };
-        System.out.println("It is " + day);
+        System.out.println("It is " + month);
 
         scanner.close();
     }

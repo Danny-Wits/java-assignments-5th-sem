@@ -1,9 +1,6 @@
 /**
- * java21NewFeature
+ * java22NewFeature
  */
-public class java21NewFeature {
-
-    static void main() {
+ void main() {
         System.out.println("NO static ");
-    }
 }
