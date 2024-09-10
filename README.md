@@ -13,9 +13,9 @@
 7. to convert month number into month name.✅
 8. to print 10 integers using for loop.✅
 9. to frame a calculator using methods.
-10. to create ,initialize and display a 1d array.
+10. to create ,initialize and display a 1d array.✅
 11. to create ,initialize and display a 2d array.
 12. to demonstrate dynamic arrays.
-13. to demonstrate Strings.
+13. to demonstrate Strings.✅
 14. to pass and return string from and to a method.
 15. to demonstrate StringBuffer Class.
